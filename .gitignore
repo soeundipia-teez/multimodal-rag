@@ -1,0 +1,30 @@
+
+# 가상환경
+.venv/
+
+# 환경변수 (API 키 노출 방지)
+.env
+.env.*
+!.env.example
+
+# 추출 이미지 및 중간 데이터
+data/figures/
+data/processed/
+*.pdf
+
+# 벡터 DB
+chroma_db/
+
+# 파이썬
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 에디터
+.vscode/
+.idea/
+.DS_Store
+
+# pkl 파일
+processed/
+*.pkl

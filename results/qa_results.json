@@ -1,0 +1,145 @@
+[
+  {
+    "number": 1,
+    "question": "Table 1에서 2025년 실질 GDP 성장률, 실업률, PCE 물가상승률 전망 중앙값은 각각 얼마인가요?",
+    "answer": "Table 1에서 2025년의 실질 GDP 성장률, 실업률, PCE 물가상승률 전망 중앙값은 다음과 같습니다:\n\n- **실질 GDP 성장률 중앙값**: 2.1%\n- **실업률 중앙값**: 4.3%\n- **PCE 물가상승률 중앙값**: 2.5%\n\n출처: 페이지 2.",
+    "sources": [
+      {
+        "type": "table",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "figure1_projection_ranges_p3.png"
+      },
+      {
+        "type": "text",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "table2_historical_errors_p16.png"
+      },
+      {
+        "type": "image",
+        "file": "table1_economic_projections_p2.png"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "question": "Figure 2의 점도표에서 2024년과 2025년 연말 적정 연방기금금리 전망 점들의 분포를 비교해 주세요.",
+    "answer": "Figure 2의 점도표에서 2024년과 2025년 연말 적정 연방기금금리 전망 점들의 분포를 비교하면 다음과 같습니다.\n\n### 2024년\n- **점 분포**: 2024년의 점들은 대체로 4.0%에서 5.0% 사이에 집중되어 있으며, 일부는 5.0%를 초과하는 수준까지 분포하고 있습니다.\n- **범위**: Table 1에 따르면, 2024년의 연방기금금리 범위는 4.4%에서 4.6% 사이입니다.\n\n### 2025년\n- **점 분포**: 2025년의 점들은 4.0%에서 5.5% 사이에 분포하고 있으며, 5.0%를 초과하는 점들도 존재합니다.\n- **범위**: Table 1에 따르면, 2025년의 연방기금금리 범위는 4.4%에서 5.0% 사이입니다.\n\n### 비교\n- **2024년**은 4.0%에서 5.0% 사이에 점들이 집중되어 있는 반면, **2025년**은 더 넓은 범위인 4.0%에서 5.5%까지 분포하고 있습니다. 이는 2025년의 전망이 2024년에 비해 더 높은 금리 수준을 반영하고 있음을 나타냅니다.\n\n이러한 점들은 각 연도에 대한 FOMC 참가자들의 적정 금리 수준에 대한 평가를 보여줍니다.",
+    "sources": [
+      {
+        "type": "image",
+        "file": "table1_economic_projections_p2.png"
+      },
+      {
+        "type": "table",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "figure2_dot_plot_p4.png"
+      },
+      {
+        "type": "text",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "figure3_gdp_distribution_p5.png"
+      },
+      {
+        "type": "image",
+        "file": "figure1_projection_ranges_p3.png"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "question": "Figure 1에서 2024~2027년 GDP 성장률과 실업률 중앙값 전망은 어떻게 달라지나요?",
+    "answer": "Figure 1에서 2024~2027년 GDP 성장률과 실업률 중앙값 전망은 다음과 같습니다:\n\n### GDP 성장률 중앙값 전망\n- **2024년**: 2.5%\n- **2025년**: 2.1%\n- **2026년**: 2.0%\n- **2027년**: 1.9%\n- **장기 전망**: 1.8%\n\n### 실업률 중앙값 전망\n- **2024년**: 4.2%\n- **2025년**: 4.3%\n- **2026년**: 4.3%\n- **2027년**: 4.3%\n- **장기 전망**: 4.2%\n\n### 요약\nGDP 성장률은 2024년부터 2027년까지 점진적으로 감소하는 반면, 실업률은 2024년부터 2027년까지 일정하게 유지되는 모습을 보입니다. \n\n출처: Figure 1 (페이지 3)",
+    "sources": [
+      {
+        "type": "image",
+        "file": "figure1_projection_ranges_p3.png"
+      },
+      {
+        "type": "table",
+        "file": ""
+      },
+      {
+        "type": "text",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "table1_economic_projections_p2.png"
+      },
+      {
+        "type": "image",
+        "file": "figure3_gdp_distribution_p5.png"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "question": "Table 2에 나타난 2027년 GDP 성장률과 실업률 전망의 역사적 예측 오차범위는 무엇인가요?",
+    "answer": "Table 2에 따르면, 2027년의 GDP 성장률과 실업률 전망의 역사적 예측 오차범위는 다음과 같습니다:\n\n- **GDP 성장률**: ±2.3 퍼센트 포인트\n- **실업률**: ±2.0 퍼센트 포인트\n\n이 오차범위는 2004년부터 2023년까지의 예측 오류를 기반으로 측정된 것입니다.",
+    "sources": [
+      {
+        "type": "image",
+        "file": "table2_historical_errors_p16.png"
+      },
+      {
+        "type": "table",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "figure1_projection_ranges_p3.png"
+      },
+      {
+        "type": "image",
+        "file": "figure3_gdp_distribution_p5.png"
+      },
+      {
+        "type": "text",
+        "file": ""
+      },
+      {
+        "type": "image",
+        "file": "table1_economic_projections_p2.png"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "question": "Figure 4.A에서 2024~2027년 GDP 성장률 전망의 불확실성 범위를 그래프 기준으로 설명해 주세요.",
+    "answer": "Figure 4.A에서 2024~2027년 GDP 성장률 전망의 불확실성 범위는 다음과 같이 설명할 수 있습니다.\n\n1. **중앙값 및 신뢰 구간**: 그래프의 파란색 선은 실제 GDP 변화율을 나타내고, 빨간색 선은 FOMC 참가자들이 예상하는 중앙값을 보여줍니다. 중앙값은 각 연도에 대한 예상 성장률의 중간값을 의미합니다. 신뢰 구간은 70% 신뢰 구간으로, 과거 예측 오류를 기반으로 하여 계산됩니다.\n\n2. **불확실성 평가**: 그래프 하단에는 GDP 성장률에 대한 불확실성과 위험에 대한 FOMC 참가자들의 평가가 포함되어 있습니다. 참가자들은 자신의 예측에 대한 불확실성을 \"대체로 유사\", \"하향 편향\", \"상향 편향\" 등으로 분류합니다.\n\n3. **참가자 수**: 각 평가에 대한 참가자 수는 그래프에 명시되어 있으며, 예를 들어, \"대체로 유사\"로 평가한 참가자는 14명, \"하향 편향\"으로 평가한 참가자는 12명, \"상향 편향\"으로 평가한 참가자는 6명입니다.\n\n4. **신뢰 구간의 폭**: 신뢰 구간은 과거 20년간의 예측 오류를 기반으로 하여 대칭적으로 가정되며, 현재의 경제 상황이 과거와 다를 수 있음을 반영합니다. 따라서, 신뢰 구간의 폭은 참가자들이 현재의 불확실성을 어떻게 평가하는지를 완전히 반영하지 않을 수 있습니다.\n\n이러한 요소들은 GDP 성장률 전망의 불확실성을 이해하는 데 중요한 역할을 합니다.",
+    "sources": [
+      {
+        "type": "image",
+        "file": "figure4a_gdp_uncertainty_p10.png"
+      },
+      {
+        "type": "image",
+        "file": "figure1_projection_ranges_p3.png"
+      },
+      {
+        "type": "image",
+        "file": "figure3_gdp_distribution_p5.png"
+      },
+      {
+        "type": "text",
+        "file": ""
+      },
+      {
+        "type": "table",
+        "file": ""
+      }
+    ]
+  }
+]
